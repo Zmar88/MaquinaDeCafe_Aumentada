@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.7.2">
+<ModelTarget name="minhaMC" targetId="aa190321ecde4dbaae2135b3dd20b1ee" version="14.0" toolVersion="10.7.2" bbox="-3.436993 0.122754 -1.493635 3.197065 4.536858 1.447983" previewImage="aa190321ecde4dbaae2135b3dd20b1ee_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="minhaMCs_assembly" assemblyId="fcecadbf38354508a34fe0dbf62aa86d">
+<Part name="minhaMC" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.118816 2.32545 12.5769" rotation="AD: 1 -0.000837698 0.0224939 184.264" image="" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.118816 2.32545 12.5769" rotation="AD: 1 -0.000837698 0.0224939 184.264" image="" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.118816 2.32545 9.09041" rotation="AD: 1 -0.000837698 0.0224939 184.264" image="" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-0.120592 2.32726 7.98235" rotation="AD: 1 0.00041627 -0.0149331 183.193" image="" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
